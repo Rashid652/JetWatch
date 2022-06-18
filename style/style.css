@@ -65,6 +65,8 @@ body {
 .logo {
     -o-object-fit: cover;
     object-fit: cover;
+    max-width: 200px;
+    width: 100%;
 }
 
 .header__nav-list {
