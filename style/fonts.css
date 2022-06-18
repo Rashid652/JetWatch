@@ -1,0 +1,47 @@
+/* Ubuntu fonts */
+@font-face {
+    font-family: 'Ubuntu-Regular';
+    src: url(../fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Ubuntu-Bold';
+    src: url(../fonts/Ubuntu/Ubuntu-Bold.ttf);
+}
+
+/* Ubuntu fonts */
+
+
+
+/* Montserrat fonts */
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+}
+
+/* Montserrat fonts */
+
+
+
+/* OpenSans font */
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+/* OpenSans font */
